@@ -7,3 +7,4 @@ print(alph[::-3])
 
 conn_string = "ghghhjj"
 pwd = "khk"
+keys="kjhkkhkhj"
